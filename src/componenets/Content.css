@@ -1,0 +1,29 @@
+.content-center {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #d4e7f4;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.content-heading {
+  color: #e830a1;
+  margin-top: 20x;
+  margin-bottom: 20px;
+  font-size: 25px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.content-text {
+  font-size: 18px;
+  color: #2574ac;
+  line-height: 1.5;
+  font-family: sans-serif;
+}

@@ -1,0 +1,2 @@
+myenv -> new having flask and all other lib
+venvProject -> for server without flask
