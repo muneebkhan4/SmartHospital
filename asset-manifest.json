@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/smart-hospital/static/css/main.e79a0260.css",
-    "main.js": "/smart-hospital/static/js/main.6773f06c.js",
-    "static/js/787.b5bfac4d.chunk.js": "/smart-hospital/static/js/787.b5bfac4d.chunk.js",
-    "static/media/cover.png": "/smart-hospital/static/media/cover.8cce74c51907eb2309a8.png",
-    "static/media/google.png": "/smart-hospital/static/media/google.9db27c1011edb821b59c.png",
-    "static/media/usman.jpg": "/smart-hospital/static/media/usman.99eaa5ee7811a456ce19.jpg",
-    "static/media/logo.svg": "/smart-hospital/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/slick.svg": "/smart-hospital/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/smart-hospital/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/smart-hospital/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/smart-hospital/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/smart-hospital/index.html",
-    "main.e79a0260.css.map": "/smart-hospital/static/css/main.e79a0260.css.map",
-    "main.6773f06c.js.map": "/smart-hospital/static/js/main.6773f06c.js.map",
-    "787.b5bfac4d.chunk.js.map": "/smart-hospital/static/js/787.b5bfac4d.chunk.js.map"
+    "main.css": "/SmartHospital/static/css/main.6f1bfdbb.css",
+    "main.js": "/SmartHospital/static/js/main.03eccd2d.js",
+    "static/js/787.b5bfac4d.chunk.js": "/SmartHospital/static/js/787.b5bfac4d.chunk.js",
+    "static/media/cover.png": "/SmartHospital/static/media/cover.8cce74c51907eb2309a8.png",
+    "static/media/google.png": "/SmartHospital/static/media/google.9db27c1011edb821b59c.png",
+    "static/media/usman.jpg": "/SmartHospital/static/media/usman.99eaa5ee7811a456ce19.jpg",
+    "static/media/logo.svg": "/SmartHospital/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/SmartHospital/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/SmartHospital/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/SmartHospital/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/SmartHospital/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/SmartHospital/index.html",
+    "main.6f1bfdbb.css.map": "/SmartHospital/static/css/main.6f1bfdbb.css.map",
+    "main.03eccd2d.js.map": "/SmartHospital/static/js/main.03eccd2d.js.map",
+    "787.b5bfac4d.chunk.js.map": "/SmartHospital/static/js/787.b5bfac4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e79a0260.css",
-    "static/js/main.6773f06c.js"
+    "static/css/main.6f1bfdbb.css",
+    "static/js/main.03eccd2d.js"
   ]
 }
